@@ -1,8 +1,7 @@
 <!-- Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sravanthi%20Madhupada&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6a11cb,100:2575fc&text=Sravanthi%20Madhupada&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
 </p>
-
 <!-- Typing Animation -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+AI+Engineer;Machine+Learning+Enthusiast;Generative+AI+Explorer;Full+Stack+Developer;Open+Source+Learner;Always+Learning+New+Technologies" />
