@@ -80,6 +80,9 @@ Aspiring AI Engineer | Machine Learning | Deep Learning | Generative AI | Full S
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Image%20Processing-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-FF5722?style=for-the-badge"/>
 
 </p>
 
