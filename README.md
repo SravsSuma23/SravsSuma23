@@ -99,71 +99,6 @@ Aspiring AI Engineer | Machine Learning | Deep Learning | Generative AI | Full S
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SravsSuma23&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SravsSuma23&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SravsSuma23&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SravsSuma23&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-# 📈 GitHub Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SravsSuma23&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 💻 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-</p>
-
----
 
 # 📚 Currently Learning
 
@@ -173,16 +108,6 @@ Aspiring AI Engineer | Machine Learning | Deep Learning | Generative AI | Full S
 - ⚛️ React.js
 - 🐳 Docker
 - ☁️ Cloud Computing
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SravsSuma23&label=Profile+Views&color=0e75b6&style=flat"/>
-
-</p>
 
 ---
 
